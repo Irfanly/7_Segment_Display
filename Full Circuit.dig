@@ -53,10 +53,6 @@
           <string>Label</string>
           <string>START</string>
         </entry>
-        <entry>
-          <string>InDefault</string>
-          <value v="1" z="false"/>
-        </entry>
       </elementAttributes>
       <pos x="140" y="360"/>
     </visualElement>
