@@ -93,6 +93,32 @@
       <elementAttributes/>
       <pos x="800" y="240"/>
     </visualElement>
+    <visualElement>
+      <elementName>Testcase</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Testdata</string>
+          <testData>
+            <dataString>CLK	PARALLEL_IN	ENABLE	DISPLAY_OUT
+1	0xFCFC	1	0xFCFC
+0	0xFCFC	1	0xFCFC
+1	0xE0FC	1	0xE0FC
+0	0xE0FC	1	0xE0FC
+1	0xFEFC	1	0xFEFC
+0	0xFEFC	1	0xFEFC
+1	0xB660	1	0xB660
+0	0xB660	1	0xB660
+</dataString>
+          </testData>
+        </entry>
+      </elementAttributes>
+      <pos x="0" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Data</elementName>
+      <elementAttributes/>
+      <pos x="40" y="-200"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>

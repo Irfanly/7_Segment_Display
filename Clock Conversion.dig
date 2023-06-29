@@ -95,6 +95,10 @@
           <string>Label</string>
           <string>B</string>
         </entry>
+        <entry>
+          <string>InDefault</string>
+          <value v="1" z="false"/>
+        </entry>
       </elementAttributes>
       <pos x="460" y="460"/>
     </visualElement>
@@ -111,7 +115,7 @@
     <visualElement>
       <elementName>Data</elementName>
       <elementAttributes/>
-      <pos x="0" y="-80"/>
+      <pos x="-20" y="-120"/>
     </visualElement>
     <visualElement>
       <elementName>Not</elementName>
